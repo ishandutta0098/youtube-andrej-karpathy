@@ -4,5 +4,5 @@ Code Repository for the tutorials in the YouTube channel -> [Andrej Karpathy](ht
 ## Contents
 Neural Networks: Zero to Hero
   1. Neural Networks and Back Propagation  
-     1. Derivatives of a Function
+     01. Derivatives of a Function
 
