@@ -1,4 +1,4 @@
-# youtube-andrej-karpathy
+# YouTube Tutorials by Andrej Karpathy
 Code Repository for the tutorials in the YouTube channel -> [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 
 ## Contents
